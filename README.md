@@ -23,6 +23,6 @@ To view and modify this digital CV:
 ### Clone the Repository:
 ```bash
 git clone [https://github.com/your-username/Project-1---Exercise-1.2-Enhancing-Your-Digital-CV-with-a-Table.git](https://github.com/your-username/Project-1---Exercise-1.2-Enhancing-Your-Digital-CV-with-a-Table.git)
-
+```
 ### License
 Distributed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
